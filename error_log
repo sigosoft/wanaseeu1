@@ -1,0 +1,13 @@
+[24-Oct-2018 05:23:36 Etc/GMT] PHP Fatal error:  Can't use method return value in write context in /home/works/public_html/wanaseeu/application/controllers/Login_api.php on line 30
+[24-Oct-2018 05:24:49 Etc/GMT] PHP Fatal error:  Can't use method return value in write context in /home/works/public_html/wanaseeu/application/controllers/Login_api.php on line 30
+[24-Oct-2018 11:14:31 Etc/GMT] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/works/public_html/wanaseeu/application/controllers/Register_api.php on line 62
+[24-Oct-2018 11:19:31 Etc/GMT] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/works/public_html/wanaseeu/application/controllers/Register_api.php on line 60
+[25-Oct-2018 05:38:59 Etc/GMT] PHP Parse error:  syntax error, unexpected ',' in /home/works/public_html/wanaseeu/application/models/Groupapi_model.php on line 36
+[25-Oct-2018 12:14:19 Etc/GMT] PHP Fatal error:  Call to a member function create_event() on a non-object in /home/works/public_html/wanaseeu/application/controllers/Event_api.php on line 32
+[25-Oct-2018 12:15:36 Etc/GMT] PHP Fatal error:  Call to a member function create_event() on a non-object in /home/works/public_html/wanaseeu/application/controllers/Event_api.php on line 32
+[26-Oct-2018 07:42:29 Etc/GMT] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/works/public_html/wanaseeu/application/controllers/Register_api.php on line 42
+[27-Oct-2018 10:35:15 Etc/GMT] PHP Fatal error:  Call to a member function getmember() on a non-object in /home/works/public_html/wanaseeu/application/controllers/GroupMember_api.php on line 58
+[27-Oct-2018 10:36:32 Etc/GMT] PHP Fatal error:  Cannot redeclare Memberapi_model::getmember() in /home/works/public_html/wanaseeu/application/models/Memberapi_model.php on line 34
+[27-Oct-2018 10:38:02 Etc/GMT] PHP Fatal error:  Cannot redeclare Memberapi_model::getmember() in /home/works/public_html/wanaseeu/application/models/Memberapi_model.php on line 34
+[27-Oct-2018 10:39:23 Etc/GMT] PHP Fatal error:  Cannot redeclare Memberapi_model::getmember() in /home/works/public_html/wanaseeu/application/models/Memberapi_model.php on line 34
+[27-Oct-2018 12:16:14 Etc/GMT] PHP Fatal error:  Call to undefined method GroupMemberapi_model::databyid() in /home/works/public_html/wanaseeu/application/controllers/GroupMember_api.php on line 77
